@@ -5,6 +5,5 @@
 - 📫 How to reach me draco.borg0704@gmail.com
 
 <!---
-Doctor-Draco-Borg/Doctor-Draco-Borg
-Will you be learning from me or will I be learning from you?
+Doctor-Draco-Borg/Doctor-Draco-Borg Will you be learning from me or will I be learning from you?
 --->
